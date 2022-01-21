@@ -1,0 +1,58 @@
+body{
+    background-color: darkcyan;
+}
+a{
+    color:rgb(74, 194, 110);
+    text-decoration: none;
+}
+.header__section{
+    color: cadetblue;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header__item:hover{
+    background-color: darkcyan;
+    border-radius: 10px;
+}
+.headerlogo{
+    font-weight: bold;
+    
+}
+.text {
+    background: black;
+    color: cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer {
+    background: rgb(0, 0, 0);
+    padding: 5px;
+    color: rgb(22, 142, 189); 
+    clear: left;
+}
+.biliberda {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header__moon{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text__moon {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text__japan{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
